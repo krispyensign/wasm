@@ -1,5 +1,3 @@
-mod utils;
-
 use std::sync::atomic::{AtomicU8, Ordering};
 use wasm_bindgen::prelude::*;
 
